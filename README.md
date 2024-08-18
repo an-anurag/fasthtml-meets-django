@@ -15,3 +15,7 @@ Django has powerful ORM which can be combined with FastHTML to create fast and e
 ### Coming soon
 1. Django admin integration
 2. Django User model integration
+
+### Links
+* [FastHTML](https://fastht.ml/)
+* [Django](https://www.djangoproject.com/)
